@@ -1,0 +1,11 @@
+C:\Users\Menoh\Documents\Projects\assessment-cc-dotnet-sr-01\Lib.ProblemSolving\bin\Debug\net6.0\Lib.ProblemSolving.deps.json
+C:\Users\Menoh\Documents\Projects\assessment-cc-dotnet-sr-01\Lib.ProblemSolving\bin\Debug\net6.0\Lib.ProblemSolving.dll
+C:\Users\Menoh\Documents\Projects\assessment-cc-dotnet-sr-01\Lib.ProblemSolving\bin\Debug\net6.0\Lib.ProblemSolving.pdb
+C:\Users\Menoh\Documents\Projects\assessment-cc-dotnet-sr-01\Lib.ProblemSolving\obj\Debug\net6.0\Lib.ProblemSolving.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Menoh\Documents\Projects\assessment-cc-dotnet-sr-01\Lib.ProblemSolving\obj\Debug\net6.0\Lib.ProblemSolving.AssemblyInfoInputs.cache
+C:\Users\Menoh\Documents\Projects\assessment-cc-dotnet-sr-01\Lib.ProblemSolving\obj\Debug\net6.0\Lib.ProblemSolving.AssemblyInfo.cs
+C:\Users\Menoh\Documents\Projects\assessment-cc-dotnet-sr-01\Lib.ProblemSolving\obj\Debug\net6.0\Lib.ProblemSolving.csproj.CoreCompileInputs.cache
+C:\Users\Menoh\Documents\Projects\assessment-cc-dotnet-sr-01\Lib.ProblemSolving\obj\Debug\net6.0\Lib.ProblemSolving.dll
+C:\Users\Menoh\Documents\Projects\assessment-cc-dotnet-sr-01\Lib.ProblemSolving\obj\Debug\net6.0\refint\Lib.ProblemSolving.dll
+C:\Users\Menoh\Documents\Projects\assessment-cc-dotnet-sr-01\Lib.ProblemSolving\obj\Debug\net6.0\Lib.ProblemSolving.pdb
+C:\Users\Menoh\Documents\Projects\assessment-cc-dotnet-sr-01\Lib.ProblemSolving\obj\Debug\net6.0\ref\Lib.ProblemSolving.dll
