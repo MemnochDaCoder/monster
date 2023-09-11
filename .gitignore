@@ -1,0 +1,12 @@
+/API/dbSqlite.*
+
+/**/bin
+/**/obj
+/**/xs
+**/.DS_Store
+*DotSettings.user
+
+API/Migrations
+
+.vs
+.idea
